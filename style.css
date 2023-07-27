@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container789 {
+    width: 100%;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container {
+    width: 500px;
+    height: 700px;
+    border: solid 1px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(50deg,rgb(111, 133, 111),rgb(56, 87, 53));
+}
+
+.photo {
+    width: 250px;
+    height: 250px;
+    /* border: solid 1px; */
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.img {
+    width: 100%;
+}
+
+.name {
+    width: 300px;
+    height: 40px;
+    /* border: solid 1px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+
+}
+
+.text1 {
+    width: 250px;
+    height: 30px;
+    /* border: solid 1px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+
+.add {
+    width: 250px;
+    height: 30px;
+    /* border: solid 1px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+
+.mail {
+    width: 250px;
+    height: 30px;
+    /* border: solid 1px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+
+.text2 {
+    width: 250px;
+    height: 30px;
+    /* border: solid 1px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+
+.social {
+    width: 300px;
+    height: 50px;
+    /* border: solid 1px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.div1 {
+    width: 40px;
+    height: 40px;
+    /* border: solid 1px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.div2 {
+    width: 40px;
+    height: 40px;
+    /* border: solid 1px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.div3 {
+    width: 40px;
+    height: 40px;
+    /* border: solid 1px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.a1 {
+    font-size: 37px;
+    color: black;
+}
+
+.a2 {
+    font-size: 38px;
+    color: black;
+}
+
+.a3 {
+    font-size: 34px;
+    color: black;
+}
